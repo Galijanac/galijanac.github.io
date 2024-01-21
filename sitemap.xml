@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.2.18/categories/</loc>
+    <loc>https://galijanac.github.io/categories/</loc>
   </url><url>
-    <loc>http://192.168.2.18/</loc>
+    <loc>https://galijanac.github.io/</loc>
   </url><url>
-    <loc>http://192.168.2.18/resume/</loc>
+    <loc>https://galijanac.github.io/resume/</loc>
   </url><url>
-    <loc>http://192.168.2.18/tags/</loc>
+    <loc>https://galijanac.github.io/tags/</loc>
   </url>
 </urlset>
