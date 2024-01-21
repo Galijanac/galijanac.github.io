@@ -1,0 +1,22 @@
+mainTitle = "About Me"
+secondaryTitle = "Hello, I am Nikola!"
+id = "about"
+
+text = """
+I am mathematician who is working as 
+a Softwar developer for more that 8 years
+in different countries (Nederland, France and Serbia).
+"""
+
+[[link]]
+    icon = "fab fa-github"
+    url = "https://github.com/Galijanac"
+[[link]]
+    icon = "fab fa-linkedin"
+    url = "https://www.linkedin.com/in/nikola-etinski-72b29a148/"
+[[link]]
+    icon = "fas fa-envelope"
+    url = "mailto:nikolaet@gmail.com"
+[[link]]
+    icon = "fab fa-facebook"
+    url = "https://www.facebook.com/nikola.etinski"
